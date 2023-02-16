@@ -1,1 +1,2 @@
-# yatube.github.io
+# yatube_project
+«Социальная сеть блогеров»
